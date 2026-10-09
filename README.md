@@ -6,4 +6,4 @@ rouge il est modifier mais pas prit en compte
 bleu modifier et prit en compte
 
 ## reviser algo
-
+ghjkl
