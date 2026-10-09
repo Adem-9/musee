@@ -1,9 +1,9 @@
 public class Adresse {
 
-    private int numero;
-    private String rue;
-    private String codePostal;
-    private String ville;
+    private final  int numero;
+    private final String rue;
+    private final String codePostal;
+    private final String ville;
 
     public Adresse (int numero, String rue, String codePostal, String ville ){
 
